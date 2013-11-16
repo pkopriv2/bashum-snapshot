@@ -8,5 +8,5 @@ Repo of snapshot bashums (still in development but good enough to use).
 To add this repo to the list of repos that you search:
 
 ```
-  bashum remote add http://github.com/pkopriv2/bashum-snapshot.git
+  bashum remote add git://github.com/pkopriv2/bashum-snapshot.git
 ```
